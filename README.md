@@ -38,8 +38,8 @@ Edit
 4. Open the project in a browser:
    http://127.0.0.1:5000
 
-🤝 Contributors
-- Rishu
-- sukritti
-- Namya
+🤝 Contributor
+- P R Kiran Kumar reddy
+
+> Note: Ensure you have Python and pip installed before proceeding with the installation.
 
